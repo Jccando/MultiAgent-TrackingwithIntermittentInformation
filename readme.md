@@ -1,6 +1,5 @@
-本项目所属单位为电子科技大学航空航天学院
+本项目所属单位为电子科技大学航空航天学院(空天科学技术研究院)
 
-<img width="386" height="100" alt="成电横幅logo" src="https://github.com/user-attachments/assets/79b31e19-cdd0-4a28-b7d4-0cadf1a2a3f6" />
 <img width="386" height="73" alt="image" src="https://github.com/user-attachments/assets/225752e4-4809-479e-bb41-d5e3de4964a5" />
 
 
