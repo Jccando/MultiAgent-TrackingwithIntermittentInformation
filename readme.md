@@ -1,3 +1,8 @@
+本项目所属单位为电子科技大学航空航天学院
+
+<img width="2000" height="2000" alt="成电横幅logo" src="https://github.com/user-attachments/assets/79b31e19-cdd0-4a28-b7d4-0cadf1a2a3f6" />
+
+
 本github前期的理论介绍与简单验证对应论文已投稿于第三届空天前沿大会AFC；
 后期的理论证明与仿真实验对应论文将投稿于IEEE Transactions on Automation Science and Engineering(T-ASE)期刊
 
