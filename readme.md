@@ -1,7 +1,7 @@
 本项目所属单位为电子科技大学航空航天学院
 
-<img width="600" height="200" alt="成电横幅logo" src="https://github.com/user-attachments/assets/79b31e19-cdd0-4a28-b7d4-0cadf1a2a3f6" />
-<img width="772" height="146" alt="image" src="https://github.com/user-attachments/assets/225752e4-4809-479e-bb41-d5e3de4964a5" />
+<img width="386" height="73" alt="成电横幅logo" src="https://github.com/user-attachments/assets/79b31e19-cdd0-4a28-b7d4-0cadf1a2a3f6" />
+<img width="386" height="73" alt="image" src="https://github.com/user-attachments/assets/225752e4-4809-479e-bb41-d5e3de4964a5" />
 
 
 本github前期的理论介绍与简单验证对应论文已投稿于第三届空天前沿大会AFC；
