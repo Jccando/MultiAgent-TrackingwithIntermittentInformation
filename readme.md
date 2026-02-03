@@ -15,7 +15,7 @@
 
 # 
 
-The affiliated unit of this project is the Aerospace College (Aerospace Science and Technology Institute) of University of Electronic Science and Technology of China.
+The affiliated unit of this project is the School of Aeronautics and Astronautics of University of Electronic Science and Technology of China.
 
 (1) The preliminary theoretical introduction and simple verification corresponding to this paper have been submitted to the 3rd Aerospace Frontier Conference AFC, namely the comparison of the estimation effects of information-based Kalman filtering and NLMS filtering (both embedded with game utility functions);
 
